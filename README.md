@@ -1,4 +1,4 @@
-![Logo](https://github.com/jafferjunaidi/eProject_EduPredict/blob/main/Images/EduPrediction.png)
+![Logo](https://github.com/jafferjunaidi/EduPrediction/blob/main/Images/EduPrediction.png)
 
 
 # EduPredict
@@ -8,7 +8,7 @@ EduPredict is a big data–driven platform, leveraging predictive analytics to e
 
 ## Screenshot
 
-![App Screenshot](https://github.com/jafferjunaidi/eProject_EduPredict/blob/main/Images/Screenshot_6174.jpg)
+![App Screenshot](https://github.com/jafferjunaidi/EduPrediction/blob/main/Images/Screenshot_6174.jpg)
 
 
 ## Features
