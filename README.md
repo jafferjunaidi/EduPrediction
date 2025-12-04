@@ -1,9 +1,9 @@
 ![Logo](https://github.com/jafferjunaidi/EduPrediction/blob/main/Images/EduPrediction.png)
 
 
-# EduPredict
+# EduPrediction
 
-EduPredict is a big data–driven platform, leveraging predictive analytics to enhance student learning outcomes and provides real‑time dashboard to support education institutes worldwide.
+EduPrediction is a big data-driven educational analytics platform that leverages predictive analytics to forecast student performance and dropout risks for educational institutions.
 
 
 ## Screenshot
