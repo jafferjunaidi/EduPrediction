@@ -13,19 +13,22 @@ EduPrediction is a big data-driven educational analytics platform that leverages
 
 ## Features
 
-- Support for Academic records, Attendance, Average GPA and LMS engagement score by GPA.
-- Total students by Department, Semester and Academic year.
-- Future dropout prediction with Trigger type and Description.
-- Sum of marks obtained and Total GPA of each Program through Course id. 
-- User-friendly interactive dashboard visualizing student performance patterns and predictions.
-- Graduated, Dropped and Completion rate through status.
-- GPA and Total attendance through Student id.
-- Parallel processing for large datasets.
+- Interactive dashboard visualizing student performance patterns and predictions.
+- Total students from Department, Semester and Academic year.
+- Average GPA from Department, Semester and Academic year.
+- Support for Academic records, Attendance and Average GPA.
+- Student risk prediction with Trigger type and Description.
+- GPA in Summer, Spring, Fall, Department and Semester.
+- Count of students from Grade and Department.
+- Count of Credits from Department.
+- Attendance rate from Department.
+- Faculty count from their roles.
+
 
 
 ## Deployment
 
-To deploy or run this project, PowerBI desktop must be installed in the computer then simply download or clone eProject_EduPredict repository, unzip it there would be sub folders find and open Big_Data_EduPredict folder there must be a EduPredict.pbix file double click on it this project will be run successfully on PowerBI desktop.
+To deploy or run this repository, PowerBI desktop must be installed in the computer then simply download or clone EduPrediction repository, unzip it there would be a eduproject_work.pbix file double click on it, project will be run successfully on PowerBI desktop.
 
 
 ## Author
